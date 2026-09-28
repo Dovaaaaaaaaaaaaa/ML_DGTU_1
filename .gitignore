@@ -1,0 +1,11 @@
+node_modules/
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+output/
+*.doc
+.vscode/settings.json
+Thumbs.db
+desktop.ini
